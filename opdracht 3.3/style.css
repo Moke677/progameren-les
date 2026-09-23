@@ -1,0 +1,24 @@
+table {
+  border-collapse: collapse;
+}
+th {
+  background-color: #f092ee;
+}
+th, td {
+  border: 1px solid black;
+  padding: 1px;
+}
+td basic  {
+  background-color: #f092ee;
+}
+
+.highlight {
+  background-color: rgb(138, 13, 234);
+}
+td {
+    background-color: black;
+}
+
+td {
+    color: rgb(237, 245, 245);
+}
